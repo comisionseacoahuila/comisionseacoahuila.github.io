@@ -4,182 +4,182 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/</loc>
-<lastmod>2019-08-09T20:02:53-00:00</lastmod>
+<loc>http://comisionseacoahuila.github.io/</loc>
+<lastmod>2019-08-09T20:15:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/archives.html</loc>
-<lastmod>2019-08-09T20:02:53-00:00</lastmod>
+<loc>http://comisionseacoahuila.github.io/archives.html</loc>
+<lastmod>2019-08-09T20:15:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/tags.html</loc>
-<lastmod>2019-08-09T20:02:53-00:00</lastmod>
+<loc>http://comisionseacoahuila.github.io/tags.html</loc>
+<lastmod>2019-08-09T20:15:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/categories.html</loc>
-<lastmod>2019-08-09T20:02:53-00:00</lastmod>
+<loc>http://comisionseacoahuila.github.io/categories.html</loc>
+<lastmod>2019-08-09T20:15:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/procesos/2018-calendarios/</loc>
+<loc>http://comisionseacoahuila.github.io/procesos/2018-calendarios/</loc>
 <lastmod>2019-08-07T12:48:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/procesos/2018-dictamentes/</loc>
+<loc>http://comisionseacoahuila.github.io/procesos/2018-dictamentes/</loc>
 <lastmod>2019-08-07T12:48:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/procesos/2018-expedientes/</loc>
+<loc>http://comisionseacoahuila.github.io/procesos/2018-expedientes/</loc>
 <lastmod>2019-08-07T12:48:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/procesos/2018-minutas/</loc>
+<loc>http://comisionseacoahuila.github.io/procesos/2018-minutas/</loc>
 <lastmod>2019-08-07T12:48:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/3de3/3de3/</loc>
+<loc>http://comisionseacoahuila.github.io/3de3/3de3/</loc>
 <lastmod>2019-08-07T12:42:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/ana-cecilia-mata-rodriguez/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/ana-cecilia-mata-rodriguez/</loc>
 <lastmod>2019-08-08T10:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/documentacion/calendarios/</loc>
+<loc>http://comisionseacoahuila.github.io/documentacion/calendarios/</loc>
 <lastmod>2019-08-09T08:50:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/carlos-alberto-arredondo-sibaja/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/carlos-alberto-arredondo-sibaja/</loc>
 <lastmod>2019-08-08T10:02:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/documentacion/dictamenes/</loc>
+<loc>http://comisionseacoahuila.github.io/documentacion/dictamenes/</loc>
 <lastmod>2019-08-09T08:58:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/eiko-gavaldon/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/eiko-gavaldon/</loc>
 <lastmod>2019-08-08T10:04:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/documentacion/expedientes/</loc>
+<loc>http://comisionseacoahuila.github.io/documentacion/expedientes/</loc>
 <lastmod>2019-08-09T08:52:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/hector-alejandro-gil-muller/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/hector-alejandro-gil-muller/</loc>
 <lastmod>2019-08-08T10:06:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/jesus-contreras-garcia/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/jesus-contreras-garcia/</loc>
 <lastmod>2019-08-08T10:08:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/jesus-maria-ramon-aguirre/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/jesus-maria-ramon-aguirre/</loc>
 <lastmod>2019-08-08T10:10:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/luis-alfonso-carrillo-gonzalez/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/luis-alfonso-carrillo-gonzalez/</loc>
 <lastmod>2019-08-08T10:12:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/luis-fernando-garcia-abusaid/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/luis-fernando-garcia-abusaid/</loc>
 <lastmod>2019-08-08T10:14:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/documentacion/minutas/</loc>
+<loc>http://comisionseacoahuila.github.io/documentacion/minutas/</loc>
 <lastmod>2019-08-09T08:54:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/documentacion/periodico-oficial/</loc>
+<loc>http://comisionseacoahuila.github.io/documentacion/periodico-oficial/</loc>
 <lastmod>2019-08-09T08:56:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/quienes-somos/sergio-fernando-alanis-ortega/</loc>
+<loc>http://comisionseacoahuila.github.io/quienes-somos/sergio-fernando-alanis-ortega/</loc>
 <lastmod>2019-08-08T10:16:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/sala-de-prensa/2018-09-07-alianza-anticorrupcion-coahuila/</loc>
+<loc>http://comisionseacoahuila.github.io/sala-de-prensa/2018-09-07-alianza-anticorrupcion-coahuila/</loc>
 <lastmod>2019-08-07T12:40:00-05:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/category/sala-de-prensa.html</loc>
+<loc>http://comisionseacoahuila.github.io/category/sala-de-prensa.html</loc>
 <lastmod>2019-08-07T12:40:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.comisionseacoahuila.mx/tag/comunicados.html</loc>
+<loc>http://comisionseacoahuila.github.io/tag/comunicados.html</loc>
 <lastmod>2019-08-07T12:40:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
