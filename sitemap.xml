@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://comisionseacoahuila.github.io/</loc>
-<lastmod>2019-08-13T17:07:17-00:00</lastmod>
+<lastmod>2019-08-14T09:50:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://comisionseacoahuila.github.io/archives.html</loc>
-<lastmod>2019-08-13T17:07:17-00:00</lastmod>
+<lastmod>2019-08-14T09:50:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://comisionseacoahuila.github.io/tags.html</loc>
-<lastmod>2019-08-13T17:07:17-00:00</lastmod>
+<lastmod>2019-08-14T09:50:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://comisionseacoahuila.github.io/categories.html</loc>
-<lastmod>2019-08-13T17:07:17-00:00</lastmod>
+<lastmod>2019-08-14T09:50:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,7 +47,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://comisionseacoahuila.github.io/procesos/2019/</loc>
-<lastmod>2019-08-12T09:32:00-05:00</lastmod>
+<lastmod>2019-08-14T09:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
