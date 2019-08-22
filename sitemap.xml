@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/</loc>
-<lastmod>2019-08-15T13:13:42-00:00</lastmod>
+<lastmod>2019-08-22T10:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/archives.html</loc>
-<lastmod>2019-08-15T13:13:42-00:00</lastmod>
+<lastmod>2019-08-22T10:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/tags.html</loc>
-<lastmod>2019-08-15T13:13:42-00:00</lastmod>
+<lastmod>2019-08-22T10:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/categories.html</loc>
-<lastmod>2019-08-15T13:13:42-00:00</lastmod>
+<lastmod>2019-08-22T10:52:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -55,6 +55,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.comisionseacoahuila.mx/3de3/3de3/</loc>
 <lastmod>2019-08-07T12:42:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://www.comisionseacoahuila.mx/licencias/agpl/</loc>
+<lastmod>2019-08-22T10:40:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -90,6 +97,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.comisionseacoahuila.mx/procesos/formatos-descargables-2019/</loc>
 <lastmod>2019-08-14T16:10:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://www.comisionseacoahuila.mx/licencias/gpl/</loc>
+<lastmod>2019-08-22T10:20:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
