@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/</loc>
-<lastmod>2019-09-10T19:55:06-00:00</lastmod>
+<lastmod>2019-09-13T15:40:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/archives.html</loc>
-<lastmod>2019-09-10T19:55:06-00:00</lastmod>
+<lastmod>2019-09-13T15:40:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/tags.html</loc>
-<lastmod>2019-09-10T19:55:06-00:00</lastmod>
+<lastmod>2019-09-13T15:40:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/categories.html</loc>
-<lastmod>2019-09-10T19:55:06-00:00</lastmod>
+<lastmod>2019-09-13T15:40:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -165,6 +165,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.comisionseacoahuila.mx/sala-de-prensa/2019-09-13-comunicado-dictamen-desechamiento/</loc>
+<lastmod>2019-09-13T15:12:00-05:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://www.comisionseacoahuila.mx/sala-de-prensa/2019-09-10-comunicado/</loc>
 <lastmod>2019-09-10T19:42:00-05:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -299,14 +306,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/category/sala-de-prensa.html</loc>
-<lastmod>2019-09-10T19:42:00-06:37</lastmod>
+<lastmod>2019-09-13T15:12:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/tag/comunicados.html</loc>
-<lastmod>2019-09-10T19:42:00-06:37</lastmod>
+<lastmod>2019-09-13T15:12:00-06:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
