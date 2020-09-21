@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/</loc>
-<lastmod>2020-09-18T16:48:46-00:00</lastmod>
+<lastmod>2020-09-21T11:51:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/archives.html</loc>
-<lastmod>2020-09-18T16:48:46-00:00</lastmod>
+<lastmod>2020-09-21T11:51:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/tags.html</loc>
-<lastmod>2020-09-18T16:48:46-00:00</lastmod>
+<lastmod>2020-09-21T11:51:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.comisionseacoahuila.mx/categories.html</loc>
-<lastmod>2020-09-18T16:48:46-00:00</lastmod>
+<lastmod>2020-09-21T11:51:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,15 +88,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.comisionseacoahuila.mx/documentacion/dictamenes/</loc>
-<lastmod>2019-08-09T08:58:00-05:00</lastmod>
+<loc>https://www.comisionseacoahuila.mx/quienes-somos/carolina-guadalupe-torres-martinez/</loc>
+<lastmod>2019-08-08T10:06:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>https://www.comisionseacoahuila.mx/quienes-somos/eiko-gavaldon/</loc>
-<lastmod>2019-08-08T10:04:00-05:00</lastmod>
+<loc>https://www.comisionseacoahuila.mx/documentacion/dictamenes/</loc>
+<lastmod>2019-08-09T08:58:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -109,15 +109,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.comisionseacoahuila.mx/licencias/gpl/</loc>
-<lastmod>2019-08-22T10:20:00-05:00</lastmod>
+<loc>https://www.comisionseacoahuila.mx/procesos/formatos-descargables-2020/</loc>
+<lastmod>2020-08-14T16:10:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>https://www.comisionseacoahuila.mx/quienes-somos/hector-alejandro-gil-muller/</loc>
-<lastmod>2019-08-08T10:06:00-05:00</lastmod>
+<loc>https://www.comisionseacoahuila.mx/licencias/gpl/</loc>
+<lastmod>2019-08-22T10:20:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -137,15 +137,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.comisionseacoahuila.mx/quienes-somos/luis-alfonso-carrillo-gonzalez/</loc>
-<lastmod>2019-08-08T10:12:00-05:00</lastmod>
+<loc>https://www.comisionseacoahuila.mx/quienes-somos/karla-patricia/</loc>
+<lastmod>2020-08-08T10:04:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>https://www.comisionseacoahuila.mx/quienes-somos/luis-fernando-garcia-abusaid/</loc>
-<lastmod>2019-08-08T10:14:00-05:00</lastmod>
+<loc>https://www.comisionseacoahuila.mx/quienes-somos/martha-virginia/</loc>
+<lastmod>2019-08-08T10:12:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -153,6 +153,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.comisionseacoahuila.mx/documentacion/minutas/</loc>
 <lastmod>2019-08-09T08:54:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://www.comisionseacoahuila.mx/quienes-somos/narciso-caballero/</loc>
+<lastmod>2020-08-08T10:14:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
